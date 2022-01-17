@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report an issue with this project.
 title: '[BUG] Generalized Overview of the Bug Report'
-labels: 'Type: Bug, State: Conversation, State: Unassigned'
+labels: 'Type: Bug, State: Conversation'
 assignees: ''
 ---
 
