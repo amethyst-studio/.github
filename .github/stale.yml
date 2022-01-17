@@ -1,13 +1,19 @@
 daysUntilStale: 14
 daysUntilClose: 3
 exemptLabels:
-  - "State: Help Wanted"
-  - "State: Work in Progress"
+  - "Priority: Critical"
+  - "Priority: High"
+  - "Priority: Medium"
+  - "Priority: Low"
   - "State: Conversation"
-  - "Type: Enhancement"
+  - "State: Help Wanted"
+  - "State: Postponed"
+  - "State: Unassigned"
+  - "State: Work in Progress"
   - "Type: Bug"
-  - "Type: Infrastructure"
+  - "Type: Enhancement"
   - "Type: Dependencies"
+  - "Type: Infrastructure"
 staleLabel: 'Meta: Abandoned'
 markComment: >
   This submission has been flagged as abandoned due to lack of activity. Please leave a comment if this issue has not yet been resolved, otherwise it will be automatically closed.
