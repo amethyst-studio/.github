@@ -1,0 +1,21 @@
+name: Workflow Replication
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  replicate_workflow:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Branch
+        uses: actions/checkout@v2
+      - name: Replicating Global Workflow
+        uses: derberg/global-workflows-support@v0.5.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN_REPLICATE }}
+          files_to_ignore: replicate.yml
+          commiter_username: xCykrix
+          commiter_email: samuel.voeller@amethyst.live
+          commit_message: "ci(global-workflows): Replication of upstream workflow from https://github.com/amethyst-studio/.github"

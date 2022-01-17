@@ -1,0 +1,15 @@
+daysUntilStale: 14
+daysUntilClose: 3
+exemptLabels:
+  - "State: Help Wanted"
+  - "State: Work in Progress"
+  - "State: Conversation"
+  - "Type: Enhancement"
+  - "Type: Bug"
+  - "Type: Infrastructure"
+  - "Type: Dependencies"
+staleLabel: 'Meta: Abandoned'
+markComment: >
+  This submission has been flagged as abandoned due to lack of activity. Please leave a comment if this issue has not yet been resolved, otherwise it will be automatically closed.
+closeComment: >
+  Following with the previous comment, this submission has been automatically closed due to inactivity.
