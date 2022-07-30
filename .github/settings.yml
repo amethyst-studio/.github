@@ -8,7 +8,6 @@ repository:
   has_issues: true
   has_projects: false
   has_wiki: true
-  is_template: false
   default_branch: main
 
   allow_squash_merge: true
