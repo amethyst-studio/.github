@@ -1,33 +1,31 @@
 ---
-name: Bug Report
-about: Report an issue with this project.
-title: '[BUG] Generalized Overview of the Bug Report'
-labels: 'Type: Bug, State: Conversation'
-assignees: ''
+
+name: 'Bug Report'
+about: 'This template is used to report unintended behavior of our projects.'
+title: '[BUG] A brief overview of your concern.'
+ref: 'main'
+labels:
+  - 'Type: Bug'
+  - 'State: Conversation'
+
 ---
 
-**Describe the Bug**
-A clear and concise description of what the bug is.
+**Describe the Bug**: A clear and concise description of what is problematic.
 
-**Information**
-Steps to reproduce the behavior:
-1. Installation commands to use.
-2. Setup the environment in this way.
-3. Snippet of how you can reproduce it consistently.
+**Information / Steps to Reproduce**:
 
-Please include any errors that may have been generated.
+1. Provide detailed steps on how to reproduce the issue.
+2. Key aspects of how the environment was set up.
+3. Code or repository that can be used to consistently reproduce the behavior.
+4. Please include any and all errors that are generated.
 
-**Expected Behavior**
-A clear and concise description of what you expected to happen.
+**Expected Behavior**: Please explain the behavior you expected the application
+to implement.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Current Environment**: Please detail the specs and operating system of the
+machine you are currently using. If possible, please replicate this issue across
+multiple different operating systems. Please include the version of our project
+that you are using.
 
-**Current Environment:**
- - Environment: Desktop or Server.
- - OS: `uname -a` or Windows OS Version.
- - Architecture: x86 / x64
- - Version: The version of the project that is installed.
-
-**Additional Context**
-Add any other context about the problem here.
+**Additional Context**: Please provide any additional information you feel
+should be shared, if applicable.
