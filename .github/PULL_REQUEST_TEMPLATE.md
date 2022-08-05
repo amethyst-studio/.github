@@ -1,4 +1,4 @@
-# Pull Request for Amethyst Studio
+# Pull Request
 
 ## Summary and Information
 
@@ -22,7 +22,7 @@ I tested this PR by ... (description of testing methods)
 
 ## Checklist for Integrity
 
-- [ ] The changes follow the style guidelines laid out by Amethyst Studio.
+- [ ] The changes follow the style guidelines laid out by Amethyst.
 - [ ] I have performed a self-review of my code, including testing intentionally incorrect information.
 - [ ] I have commented my code, particularly in hard to understand or complex areas.
 - [ ] The changes have not generated any new errors or warning by static-analysis tooling.

@@ -1,6 +1,6 @@
-# Support for Amethyst Studio
+# Support for Amethyst
 
-Welcome to Amethyst Studio's suite of projects! We use GitHub issues for tracking bugs and handling feature requests, so those are not the right place to get support for our projects. Please make use of the resources below to get support for our products.
+Welcome to Amethyst's suite of projects! We use GitHub issues for tracking bugs and handling feature requests, so those are not the right place to get support for our projects. Please make use of the resources below to get support for our products.
 
 ## Discussions
 
@@ -10,7 +10,7 @@ We leverage the newer GitHub discussions as a point of contact for developers an
 
 All of our projects have automatically generated documentation based on in-line documentation that is generated at each push to main and staging.
 
-- [User Documentation and Troubleshooting](https://docs.amethyst.live/)
+- [User Documentation and Troubleshooting](https://github.com/amethyst-studio/)
 
 ## Live Chatting
 
