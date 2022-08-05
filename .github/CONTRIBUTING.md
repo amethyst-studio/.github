@@ -56,10 +56,11 @@ a join and feel free to let us know what you need a hand with.
 
 ### Classifications of Projects
 
-Below are the definitions for what each [A/B] format used in the project description will refer to.
+Below are the definitions for what each [A/B] format used in the project
+description will refer to.
 
 | Code           | Type | Usage                                                                                       |
-|----------------|------|---------------------------------------------------------------------------------------------|
+| -------------- | ---- | ------------------------------------------------------------------------------------------- |
 | Internal       | A    | Auditing and Transparency. Limited contribution.                                            |
 | Library        | A    | FOSS Libraries. Full contribution.                                                          |
 | Tool           | A    | FOSS Tooling. Full contribution.                                                            |
