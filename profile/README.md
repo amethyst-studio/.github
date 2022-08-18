@@ -37,7 +37,6 @@ services are in the process of migration to these stacks.
 - Bash: The obvious for use with Linux to power our services we provide.
 - Docker: We use docker to containerize and isolate out applications among our
   stack.
-- Git: Used as version control on the oh-so-popular platform you are currently
-  on.
+- Git: Used as version control for GitHub.
 - TypeScript: The strict coding standard we follow to ensure that our
   applications are sturdy and fault resistent.
