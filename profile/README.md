@@ -10,27 +10,22 @@
 
 [Operations - samuel.voeller@amethyst.live](mailto:samuel.voeller@amethyst.live)
 
-[General - support@amethyst.live](mailto:support@amethyst.live) |
-[Billing - billing@amethyst.live](mailto:billing@amethyst.live) |
-[Reports - report@amethyst.live](mailto:report@amethyst.live)
-
 ### Live Chatting
 
-[Discord Server](https://invite-to.amethyst.live)
+[Discord Server](https://discord.gg/5Z4FXY7)
 
 ## The Software Stack
 
 All applicable services will align to these technology stacks. Currently, some
 services are in the process of migration to these stacks.
 
-### The MORD Stack
+### The Stack
 
-- Mongo: The database backend database used and hosted by Amethyst.
-- Oak: The framework used to write our HTTP servers. We have our own
+- Drash: The framework used to write our HTTP servers. We have our own
   pre-configured base that can be rolled out for rapid development.
-- React: The frontend tooling used to write our applications and interfacing.
+- Mongo: The database backend database used and hosted by Amethyst.
 - Deno: The driving force of our backend. With native JSON support, it works
-  strongly with Mongo, Express, and React.
+  strongly with Mongo and Drash.
 
 ### Additional Tooling
 
